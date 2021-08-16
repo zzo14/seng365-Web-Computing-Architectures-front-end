@@ -1,4 +1,4 @@
-# event_app
+# SENG365 2021 Assignment 2 - [A+]
 
 ## Project setup
 ```
