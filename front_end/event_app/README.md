@@ -2,10 +2,13 @@
 The frontend assignment, requires the backend and access to the database for it to properly work.
 
 ## Tech Used
-Vue 3
-Element UI
-Axios
-Vue Router
+  Vue 3
+  
+  Bootstrap
+  
+  Axios
+  
+  Vue Router
 
 ## Project setup
 ```
