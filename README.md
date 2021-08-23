@@ -9,6 +9,9 @@ The frontend assignment, requires the backend and access to the database for it 
   Axios
   
   Vue Router
+  
+###Home Page
+  ![image]( https://github.com/zzo14/seng365-Web-Computing-Architectures-front-end/blob/main/pics/homepage.PNG)
 
 ## Project setup
 ```
