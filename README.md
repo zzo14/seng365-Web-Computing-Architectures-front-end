@@ -11,7 +11,16 @@ The frontend assignment, requires the backend and access to the database for it 
   Vue Router
   
 ###Home Page
-  ![image]( https://github.com/zzo14/seng365-Web-Computing-Architectures-front-end/blob/main/pics/homepage.PNG)
+  ![image]( https://github.com/zzo14/seng365-Web-Computing-Architectures-front-end/tree/main/pic/homepage.PNG)
+  
+###Event Page
+  ![image]( https://github.com/zzo14/seng365-Web-Computing-Architectures-front-end/tree/main/pic/eventPage.PNG)
+
+###Edit Page
+  ![image]( https://github.com/zzo14/seng365-Web-Computing-Architectures-front-end/tree/main/pic/editPage.PNG)
+  
+###Login Page
+  ![image]( https://github.com/zzo14/seng365-Web-Computing-Architectures-front-end/tree/main/pic/LogPage.PNG)
 
 ## Project setup
 ```
