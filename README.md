@@ -1,5 +1,5 @@
 # seng365-full-stack
-![Image text](https://https://github.com/zzo14/seng365-full-stack/blob/main/pic/LogPage.PNG)
+![Image text](https://github.com/zzo14/seng365-full-stack/blob/main/pic/LogPage.PNG)
 
 
 ## Project setup
