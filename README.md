@@ -1,6 +1,13 @@
 # seng365-full-stack
-![Image text](https://github.com/zzo14/seng365-full-stack/blob/main/pic/LogPage.PNG)
 
+### Log In Page
+![Image text](https://github.com/zzo14/seng365-full-stack/blob/main/pic/LogPage.PNG)
+### Home Page
+![Image text](https://github.com/zzo14/seng365-full-stack/blob/main/pic/homepage.PNG)
+### Event Page
+![Image text](https://github.com/zzo14/seng365-full-stack/blob/main/pic/eventPage.PNG)
+### Edit Page
+![Image text](https://github.com/zzo14/seng365-full-stack/blob/main/pic/editPage.PNG)
 
 ## Project setup
 ```
