@@ -1,4 +1,4 @@
-# seng365-full-stack
+# seng365-full-stack[A+]
 
 ### Log In Page
 ![Image text](https://github.com/zzo14/seng365-full-stack/blob/main/pic/LogPage.PNG)
